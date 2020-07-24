@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "admin1-deleivery"
+    IMAGE_REPO_NAME: "admin1-delevery"
     _PROJECT_NAME: "admin1-delivery"
 
 phases:
